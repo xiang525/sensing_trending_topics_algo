@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.7.0_01-b08 (Oracle Corporation)
+Class-Path: lib/lucene-core-4.2.0.jar lib/commons-io-2.1.jar lib/colle
+ ctions-generic-4.01.jar lib/jblas-1.2.1.jar lib/colt-1.2.0.jar lib/li
+ ngpipe-4.1.0.jar lib/lucene-analyzers-common-4.2.0.jar lib/gson-2.0.j
+ ar lib/twitter4j-core-3.0.3.jar lib/twitter4j-stream-3.0.3.jar lib/co
+ mmons-lang.jar lib/log4j-1.2.17.jar lib/mallet.jar lib/mongo-2.10.1.j
+ ar lib/trove-2.1.0.jar lib/jung-algorithms-2.0.1.jar lib/jung-api-2.0
+ .1.jar lib/jung-graph-impl-2.0.1.jar lib/jung-io-2.0.1.jar lib/common
+ s-math3-3.2.jar lib/json-simple-1.1.1.jar lib/stanford-corenlp-3.2.0.
+ jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: tmm.TMM
+
